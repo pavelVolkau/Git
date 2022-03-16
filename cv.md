@@ -2,8 +2,6 @@
 
 ## **_My Contact Info_**
 
----
-
 **Phone:** +375(33) 347 05 90
 
 **E-mail:** lekoo.cwalk@gmail.com
@@ -11,6 +9,8 @@
 **GitHub:** [pavelVolkau](https://github.com/pavelVolkau)
 
 **Telegram:** [pavelVolkau](http://t.me/pavelVolkau)
+
+**Discord:** Pavel Volkau(@pavelVolkau)
 
 **LinkedIn:** [pavelVolkau](https://www.linkedin.com/in/pavelVolkau/)
 
@@ -46,6 +46,7 @@ I hope one day to get a job in a company where work will bring me pleasure, and 
 ---
 
 _KATA from CODEWARS_
+
 **Details:**The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.
 
 Note: Your answer should always be 6 characters long, the shorthand with 3 will not work here.
@@ -65,5 +66,27 @@ function rgb(r, g, b) {
     .join('')
 }
 ```
+
+---
+
+### **_Education_**
+
+---
+
+- «Vitebsk State University of Technology», Belarus
+- Web Development for Beginners: HTML and CSS (stepick.org)
+- Web Developer 2021 (udemy.com)
+- Course in JavaScript - from scratch to result (udemy.com)
+- JavaScript Manual on learnjavascript.ru (in progress)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+### **_Languages_**
+
+---
+
+- Russian - Native
+- English - A1
 
 ---
