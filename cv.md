@@ -10,7 +10,7 @@
 
 **GitHub:** [pavelVolkau](https://github.com/pavelVolkau)
 
-**Telegram:** [@Raven_SC](http://t.me/Raven_SC)
+**Telegram:** [pavelVolkau](http://t.me/pavelVolkau)
 
 **LinkedIn:** [pavelVolkau](https://www.linkedin.com/in/pavelVolkau/)
 
