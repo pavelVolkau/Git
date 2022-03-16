@@ -8,10 +8,10 @@
 
 **E-mail:** lekoo.cwalk@gmail.com
 
-**GitHub:** pavelVolkau
+**GitHub:** [pavelVolkau](https://github.com/pavelVolkau)
 
 **Telegram:** [@Raven_SC](http://t.me/Raven_SC)
 
-**LinkedIn:** https://www.linkedin.com/in/pavelVolkau/
+**LinkedIn:** [pavelVolkau](https://www.linkedin.com/in/pavelVolkau/)
 
 ---
