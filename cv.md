@@ -26,3 +26,17 @@ I am inquisitive, I love to solve logical/algorithmic problems. I think that my 
 I hope one day to get a job in a company where work will bring me pleasure, and communication with colleagues will bring me new interesting knowledge.
 
 ---
+
+### **_My skills_**
+
+---
+
+- HTML5
+- CSS3 (Framework Bootstrap5, Preprocessor SASS)
+- JavaScript (Fundamentals,Functional Programming,ES6+,DOM)
+- Version control: Git (remote service GitHub)
+- Windows OS
+- Figma(for web development), Adobe Photoshop(for web development)
+- Editors: VSCode, PyCharm community
+
+---
