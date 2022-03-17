@@ -1,2 +1,2 @@
-I vanna (убрал тут слово) learn GIT
+I vanna (второе слово(second ветка)) learn GIT
 шото добавил
